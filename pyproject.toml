@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openup"
+version = "0.1.0"
+description = "Force cmd fullscreen in seconds."
+readme = "README.md"
+requires-python = ">=3.7"
+
+[tool.setuptools]
+py-modules = ["openup"]
