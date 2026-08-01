@@ -14,9 +14,13 @@
 
 ## How To Use:
 ### Example:
-import openup;
+'''python
+import openup
 openup.force_full_screen() #This will force full screen if ran through cmd (does not work with built in terminals in editors like VS code)
+'''
 
 ### Alternative Example:
+'''python
 from openup import force_full_screen as ffs;
 ffs() #Same as previous example (it does not let me make it multiline.)
+'''
