@@ -1,3 +1,4 @@
+# For Windows
 ## What is openup?
   A python module that makes full screening easy. Just like F11 for cmd, but automatic and mid execution.
 
@@ -24,3 +25,8 @@ openup.force_full_screen() #This will force full screen if ran through cmd (does
 from openup import force_full_screen as ffs
 ffs() #Same as previous example
 ```
+# For Linux
+### Import the file into your project.
+### Then use:
+```python
+from openup
