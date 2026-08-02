@@ -29,4 +29,5 @@ ffs() #Same as previous example
 ### Import the file into your project.
 ### Then use:
 ```python
-from openup
+from openup import *
+```
