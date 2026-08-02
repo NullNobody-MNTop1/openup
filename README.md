@@ -10,7 +10,7 @@
   1. Open CMD(command prompt)
   2. Navigate to the folder containing openup.py and pyproject.toml files using `cd` command
   3. Write: `pip3 install .` (if you do not have `pip3` you can use `pip`)
-  4. Use import openup to use it in your projects
+  4. Use `import openup` to use it in your projects
 
 ## How To Use:
 ### Example:
